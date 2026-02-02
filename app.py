@@ -658,7 +658,7 @@ def verifier_mot_de_passe() -> bool:
             st.rerun()
         else:
             st.error("Mot de passe incorrect")
-    st.caption("Indice : Code Nonstop")
+    st.caption("Indice : Code Nonstop Emmanuel")
     return False
 
 
